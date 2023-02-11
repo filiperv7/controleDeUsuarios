@@ -1,0 +1,71 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+		<PackageReference Include="RestSharp" Version="108.0.3" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\ControleDeUsuario02.Domain\ControleDeUsuario02.Domain.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Compile Update="Imagens.Designer.cs">
+	    <DesignTime>True</DesignTime>
+	    <AutoGen>True</AutoGen>
+	    <DependentUpon>Imagens.resx</DependentUpon>
+	  </Compile>
+	  <Compile Update="Mensagens.Designer.cs">
+	    <DesignTime>True</DesignTime>
+	    <AutoGen>True</AutoGen>
+	    <DependentUpon>Mensagens.resx</DependentUpon>
+	  </Compile>
+	  <Compile Update="Windows\Departamentos\Retornos.Designer.cs">
+	    <DesignTime>True</DesignTime>
+	    <AutoGen>True</AutoGen>
+	    <DependentUpon>Retornos.resx</DependentUpon>
+	  </Compile>
+	  <Compile Update="Windows\Projetos\Retornos.Designer.cs">
+	    <DesignTime>True</DesignTime>
+	    <AutoGen>True</AutoGen>
+	    <DependentUpon>Retornos.resx</DependentUpon>
+	  </Compile>
+	  <Compile Update="Windows\Usuarios\Retornos.Designer.cs">
+	    <DesignTime>True</DesignTime>
+	    <AutoGen>True</AutoGen>
+	    <DependentUpon>Retornos.resx</DependentUpon>
+	  </Compile>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <EmbeddedResource Update="Imagens.resx">
+	    <Generator>ResXFileCodeGenerator</Generator>
+	    <LastGenOutput>Imagens.Designer.cs</LastGenOutput>
+	  </EmbeddedResource>
+	  <EmbeddedResource Update="Mensagens.resx">
+	    <Generator>ResXFileCodeGenerator</Generator>
+	    <LastGenOutput>Mensagens.Designer.cs</LastGenOutput>
+	  </EmbeddedResource>
+	  <EmbeddedResource Update="Windows\Departamentos\Retornos.resx">
+	    <Generator>ResXFileCodeGenerator</Generator>
+	    <LastGenOutput>Retornos.Designer.cs</LastGenOutput>
+	  </EmbeddedResource>
+	  <EmbeddedResource Update="Windows\Projetos\Retornos.resx">
+	    <Generator>ResXFileCodeGenerator</Generator>
+	    <LastGenOutput>Retornos.Designer.cs</LastGenOutput>
+	  </EmbeddedResource>
+	  <EmbeddedResource Update="Windows\Usuarios\Retornos.resx">
+	    <Generator>ResXFileCodeGenerator</Generator>
+	    <LastGenOutput>Retornos.Designer.cs</LastGenOutput>
+	  </EmbeddedResource>
+	</ItemGroup>
+	
+</Project>

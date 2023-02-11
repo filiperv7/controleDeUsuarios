@@ -1,0 +1,17 @@
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.InfraStructure\bin\Debug\net6.0\ControleDeUsuario02.InfraStructure.deps.json
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.InfraStructure\bin\Debug\net6.0\ControleDeUsuario02.InfraStructure.runtimeconfig.json
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.InfraStructure\bin\Debug\net6.0\ControleDeUsuario02.InfraStructure.dll
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.InfraStructure\bin\Debug\net6.0\ControleDeUsuario02.InfraStructure.pdb
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.InfraStructure\bin\Debug\net6.0\ControleDeUsuario02.Domain.dll
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.InfraStructure\bin\Debug\net6.0\ControleDeUsuario02.Domain.pdb
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.InfraStructure\obj\Debug\net6.0\ControleDeUsuario02.InfraStructure.csproj.AssemblyReference.cache
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.InfraStructure\obj\Debug\net6.0\ControleDeUsuario02.InfraStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.InfraStructure\obj\Debug\net6.0\ControleDeUsuario02.InfraStructure.AssemblyInfoInputs.cache
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.InfraStructure\obj\Debug\net6.0\ControleDeUsuario02.InfraStructure.AssemblyInfo.cs
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.InfraStructure\obj\Debug\net6.0\ControleDeUsuario02.InfraStructure.csproj.CoreCompileInputs.cache
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.InfraStructure\obj\Debug\net6.0\ControleDeUsuario02.InfraStructure.csproj.CopyComplete
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.InfraStructure\obj\Debug\net6.0\ControleDeUsuario02.InfraStructure.dll
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.InfraStructure\obj\Debug\net6.0\refint\ControleDeUsuario02.InfraStructure.dll
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.InfraStructure\obj\Debug\net6.0\ControleDeUsuario02.InfraStructure.pdb
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.InfraStructure\obj\Debug\net6.0\ControleDeUsuario02.InfraStructure.genruntimeconfig.cache
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.InfraStructure\obj\Debug\net6.0\ref\ControleDeUsuario02.InfraStructure.dll

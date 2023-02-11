@@ -1,0 +1,12 @@
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.Domain\bin\Debug\net6.0\ControleDeUsuario02.Domain.deps.json
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.Domain\bin\Debug\net6.0\ControleDeUsuario02.Domain.dll
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.Domain\bin\Debug\net6.0\ControleDeUsuario02.Domain.pdb
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.Domain\obj\Debug\net6.0\ControleDeUsuario02.Domain.csproj.AssemblyReference.cache
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.Domain\obj\Debug\net6.0\ControleDeUsuario02.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.Domain\obj\Debug\net6.0\ControleDeUsuario02.Domain.AssemblyInfoInputs.cache
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.Domain\obj\Debug\net6.0\ControleDeUsuario02.Domain.AssemblyInfo.cs
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.Domain\obj\Debug\net6.0\ControleDeUsuario02.Domain.csproj.CoreCompileInputs.cache
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.Domain\obj\Debug\net6.0\ControleDeUsuario02.Domain.dll
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.Domain\obj\Debug\net6.0\refint\ControleDeUsuario02.Domain.dll
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.Domain\obj\Debug\net6.0\ControleDeUsuario02.Domain.pdb
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.Domain\obj\Debug\net6.0\ref\ControleDeUsuario02.Domain.dll

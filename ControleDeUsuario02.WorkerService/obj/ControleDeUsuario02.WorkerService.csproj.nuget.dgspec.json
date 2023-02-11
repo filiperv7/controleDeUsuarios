@@ -1,0 +1,298 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\project\\ProjetoStartFilipe\\ControleDeUsuario02\\ControleDeUsuario02.WorkerService\\ControleDeUsuario02.WorkerService.csproj": {}
+  },
+  "projects": {
+    "C:\\project\\ProjetoStartFilipe\\ControleDeUsuario02\\ControleDeUsuario02.Domain\\ControleDeUsuario02.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\project\\ProjetoStartFilipe\\ControleDeUsuario02\\ControleDeUsuario02.Domain\\ControleDeUsuario02.Domain.csproj",
+        "projectName": "ControleDeUsuario02.Domain",
+        "projectPath": "C:\\project\\ProjetoStartFilipe\\ControleDeUsuario02\\ControleDeUsuario02.Domain\\ControleDeUsuario02.Domain.csproj",
+        "packagesPath": "C:\\Users\\fvasconc\\.nuget\\packages\\",
+        "outputPath": "C:\\project\\ProjetoStartFilipe\\ControleDeUsuario02\\ControleDeUsuario02.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fvasconc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\project\\ProjetoStartFilipe\\ControleDeUsuario02\\ControleDeUsuario02.InfraStructure\\ControleDeUsuario02.InfraStructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\project\\ProjetoStartFilipe\\ControleDeUsuario02\\ControleDeUsuario02.InfraStructure\\ControleDeUsuario02.InfraStructure.csproj",
+        "projectName": "ControleDeUsuario02.InfraStructure",
+        "projectPath": "C:\\project\\ProjetoStartFilipe\\ControleDeUsuario02\\ControleDeUsuario02.InfraStructure\\ControleDeUsuario02.InfraStructure.csproj",
+        "packagesPath": "C:\\Users\\fvasconc\\.nuget\\packages\\",
+        "outputPath": "C:\\project\\ProjetoStartFilipe\\ControleDeUsuario02\\ControleDeUsuario02.InfraStructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fvasconc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\project\\ProjetoStartFilipe\\ControleDeUsuario02\\ControleDeUsuario02.Domain\\ControleDeUsuario02.Domain.csproj": {
+                "projectPath": "C:\\project\\ProjetoStartFilipe\\ControleDeUsuario02\\ControleDeUsuario02.Domain\\ControleDeUsuario02.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\project\\ProjetoStartFilipe\\ControleDeUsuario02\\ControleDeUsuario02.Service\\ControleDeUsuario02.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\project\\ProjetoStartFilipe\\ControleDeUsuario02\\ControleDeUsuario02.Service\\ControleDeUsuario02.Service.csproj",
+        "projectName": "ControleDeUsuario02.Service",
+        "projectPath": "C:\\project\\ProjetoStartFilipe\\ControleDeUsuario02\\ControleDeUsuario02.Service\\ControleDeUsuario02.Service.csproj",
+        "packagesPath": "C:\\Users\\fvasconc\\.nuget\\packages\\",
+        "outputPath": "C:\\project\\ProjetoStartFilipe\\ControleDeUsuario02\\ControleDeUsuario02.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fvasconc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\project\\ProjetoStartFilipe\\ControleDeUsuario02\\ControleDeUsuario02.Domain\\ControleDeUsuario02.Domain.csproj": {
+                "projectPath": "C:\\project\\ProjetoStartFilipe\\ControleDeUsuario02\\ControleDeUsuario02.Domain\\ControleDeUsuario02.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\project\\ProjetoStartFilipe\\ControleDeUsuario02\\ControleDeUsuario02.WorkerService\\ControleDeUsuario02.WorkerService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\project\\ProjetoStartFilipe\\ControleDeUsuario02\\ControleDeUsuario02.WorkerService\\ControleDeUsuario02.WorkerService.csproj",
+        "projectName": "ControleDeUsuario02.WorkerService",
+        "projectPath": "C:\\project\\ProjetoStartFilipe\\ControleDeUsuario02\\ControleDeUsuario02.WorkerService\\ControleDeUsuario02.WorkerService.csproj",
+        "packagesPath": "C:\\Users\\fvasconc\\.nuget\\packages\\",
+        "outputPath": "C:\\project\\ProjetoStartFilipe\\ControleDeUsuario02\\ControleDeUsuario02.WorkerService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fvasconc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\project\\ProjetoStartFilipe\\ControleDeUsuario02\\ControleDeUsuario02.Domain\\ControleDeUsuario02.Domain.csproj": {
+                "projectPath": "C:\\project\\ProjetoStartFilipe\\ControleDeUsuario02\\ControleDeUsuario02.Domain\\ControleDeUsuario02.Domain.csproj"
+              },
+              "C:\\project\\ProjetoStartFilipe\\ControleDeUsuario02\\ControleDeUsuario02.InfraStructure\\ControleDeUsuario02.InfraStructure.csproj": {
+                "projectPath": "C:\\project\\ProjetoStartFilipe\\ControleDeUsuario02\\ControleDeUsuario02.InfraStructure\\ControleDeUsuario02.InfraStructure.csproj"
+              },
+              "C:\\project\\ProjetoStartFilipe\\ControleDeUsuario02\\ControleDeUsuario02.Service\\ControleDeUsuario02.Service.csproj": {
+                "projectPath": "C:\\project\\ProjetoStartFilipe\\ControleDeUsuario02\\ControleDeUsuario02.Service\\ControleDeUsuario02.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting.WindowsServices": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "NLog.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

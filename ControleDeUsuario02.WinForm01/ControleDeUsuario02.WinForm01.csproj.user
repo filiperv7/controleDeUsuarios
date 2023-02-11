@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\ControlesVisuaisView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\Departamentos\AtualizarDepartamentoView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\Departamentos\NovoDepartamentoView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\Departamentos\TodosDepartamentosView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\Departamentos\VerDepartamentoView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\Projetos\AtualizandoProjetoView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\Projetos\AtualizarProjetoView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\Projetos\NovoProjetoView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\Projetos\TodosProjetosView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\Projetos\VerProjetoView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\ReembolsoDeslocamentoView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\RelatorioReembolsos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\Usuarios\AtualizarUsuarioView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\Usuarios\CardUsuarioCompleto.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Windows\Usuarios\NovoUsuarioView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\Usuarios\TodosUsuariosCompletosView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\Usuarios\TodosUsuariosView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\Usuarios\UsuarioCompletoView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Imagens.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ControleDeUsuario02.API.props" />
+</Project>

@@ -1,0 +1,25 @@
+﻿namespace ControleDeUsuario02.ConsoleAPI.Model {
+    public class FullUserModel {
+
+        public int Id { get; set; }
+        public string? FirstName { get; set; }
+        public string? LastName { get; set; }
+        public ProjectModel? Project { get; set; }
+        public List<DepartmentModel>? Departments { get; set; }
+
+
+    /*    public void DomainToModel(User user) {
+            FirstName = user.FirstName;
+            LastName = user.LastName;
+        }
+
+        public User ModelToDomain() {
+            var user = new User();
+
+            user.FirstName = FirstName;
+            user.LastName = LastName;
+
+            return user;
+        }*/
+    }
+}

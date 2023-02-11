@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ControleDeUsuario02.InfraStructure": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:65456;http://localhost:65457"
+    }
+  }
+}

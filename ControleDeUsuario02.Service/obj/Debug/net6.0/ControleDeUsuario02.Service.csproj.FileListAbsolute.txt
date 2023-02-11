@@ -1,0 +1,15 @@
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.Service\bin\Debug\net6.0\ControleDeUsuario02.Service.deps.json
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.Service\bin\Debug\net6.0\ControleDeUsuario02.Service.dll
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.Service\bin\Debug\net6.0\ControleDeUsuario02.Service.pdb
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.Service\bin\Debug\net6.0\ControleDeUsuario02.Domain.dll
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.Service\bin\Debug\net6.0\ControleDeUsuario02.Domain.pdb
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.Service\obj\Debug\net6.0\ControleDeUsuario02.Service.csproj.AssemblyReference.cache
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.Service\obj\Debug\net6.0\ControleDeUsuario02.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.Service\obj\Debug\net6.0\ControleDeUsuario02.Service.AssemblyInfoInputs.cache
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.Service\obj\Debug\net6.0\ControleDeUsuario02.Service.AssemblyInfo.cs
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.Service\obj\Debug\net6.0\ControleDeUsuario02.Service.csproj.CoreCompileInputs.cache
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.Service\obj\Debug\net6.0\ControleDeUsuario02.Service.csproj.CopyComplete
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.Service\obj\Debug\net6.0\ControleDeUsuario02.Service.dll
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.Service\obj\Debug\net6.0\refint\ControleDeUsuario02.Service.dll
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.Service\obj\Debug\net6.0\ControleDeUsuario02.Service.pdb
+C:\project\ProjetoStartFilipe\ControleDeUsuario02\ControleDeUsuario02.Service\obj\Debug\net6.0\ref\ControleDeUsuario02.Service.dll
